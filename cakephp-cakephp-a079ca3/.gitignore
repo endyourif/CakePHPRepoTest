@@ -19,3 +19,9 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+
+#############
+#############
+## PHPStorm
+
+.idea/
